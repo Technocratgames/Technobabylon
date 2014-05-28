@@ -1,0 +1,245 @@
+Technobabylon - Walkthrough Guide
+
+Part 1
+
+- Inv - open email, choose X-TRA Pharma, download attachment
+- Close e-mail, choose disconnect from Trance
+- Interact with toilet (pick up WETWARE)
+- Interact with SOAP (pick up SOAP)
+- Open Left locker (below bed), pick up TROPHY
+- Use soap with right locker
+- Interact with right locker, pick up CUTTERS
+- Use cutters with cable (in centre of room), get CABLE
+- Use cable with shower hose, get SHOWER
+- Use CABLE with grille above door, get GRILLE
+- Interact with food machine (left side of room), eject the memory, get MEMORY CARD
+- use WETWARE with food machine, and with the control panel by the door
+- Inv - Connect to Trance
+- Use MEMORY CARD with virus, memory card becomes infected.
+- Disconnect from Trance
+- Use INFECTED MEMORY CARD with food machine.
+- Connect to Trance
+- Use Food Machine icon, talk to Cheffie the Chef
+- Tell her you don't like food. She checks the memory card, and becomes infected.
+- Use door-control icon, talk to knight
+- Tell him Cheffie's infected. He destroys her.
+- Disconnect from Trance
+- Put shower, grille and trophy in recycler, above food machine
+- Use food machine, choose any of the "food" options
+- Get METAL FORK and METAL TRAY
+- Use the METAL FORK with the control panel by the door
+: Apartment explodes, section ends
+
+
+Part 2
+
+- Talk to girl. No matter what you say, she'll try to off herself, so say what you like
+: There's a time-pressure in this section, luckily it's not rocket surgery.
+- Open locker (right), get SHEAR BLADE and RAKE
+- Interact with her bag on the bench, get TAPE and SHIRT
+- Use BLADE with RAKE, get "RAKESAW"
+- Use RAKESAW with the branch she's hanging from
+: She's on the ground. Regis calls Lao.
+- Interact with pile of leaves at bottom of tree, get VODKA
+- Use CABLE with girl
+- Use VODKA with SHIRT
+- Use SHIRT with girl
+- Suddenly, health crisis. Regis automatically gets into position for CPR. Left click for chest compressions (raises BP), right click for mouth-to-mouth (raises O2). Keep this up until Lao gets here - or don't, it's up to you.
+: Girl survives, or doesn't. Plot exposition scene, Regis is being blackmailed
+: Driving in car. Central starts having a go at everyone, before redirecting them to train station
+: Suicide bomber is trapped in a train carriage. Regis decides to try to talk him down. There are three ways of doing this...
+a) Keep choosing the top option in the dialogue, this will eventually persuade the bomber to surrender
+b) The middle option won't persuade him, but will give you enough time until you can tell Lao to take the shot
+c) The third option will goad him into setting himself off. Kerboom!
+: Train station resolved, Regis and Lao leave station. End of section
+
+
+Part 3
+
+- Interact with sculpture, get MAGNETIC BASE
+- Try to open apartment door.
+- Can't get into apartment. Three options:
+a) Ask Lao to hack the lock
+b) Call Central on the TRAVELLER in the inventory
+c) Use the STUNNER on the door controls
+- In the apartment, go upstairs. Regis and Lao discover murder scene.
+BEDROOM:
+- Pick up HAND
+- Pick up COATHANGER jammed in the gap of the floordrobe
+- Interact with floordrobe controls, get FISHING ROD
+- Use COATHANGER with FISHING ROD
+- Use MAGNETIC BASE with FISHING ROD
+- Look at the body in the pool
+- Use fishing rod with pool, get PISTOL
+- Pick up PHOTOGRAPH by bedside
+- Look at PHOTOGRAPH
+- go back downstairs
+KITCHEN:
+- Interact with cupboards, get COOKING GEL and KNIFE
+- Look at maid, then interact with maid
+- Look at cooking gel, set temperature to 37*C
+- Use cooking gel with hand
+- Interact with console
+- Use hand with palmprint section
+- Enter password: Paris
+- Choose S&S Synthetics from the list, and call them. Tell them that maid doesn't work.
+- Use KNIFE with maid, get POWER CELL
+- leave apartment
+HALLWAY:
+- Use POWER CELL with cleaning drone charger
+- reenter apartment
+- Use POWER CELL with maid
+- Discuss everything you can with the maid, she won't tell you enough about the murder
+- Go back to the terminal, contact S&S again
+- Tell S&S that maid won't cooperate, receive SPLITTER
+- Use SPLITTER on food machine and on DRINKS MACHINE
+- Use SPLITTER on maid
+- Personality: Food machine. Role: Drinks machine. Platform memory: Maid
+- Show pistol to maid, see cutscene of how Van der Waal was killed by dodgy wetware in his wine, then torn to pieces by maid at his request
+- Regis picks up MEMORY MODULE from fridge, as requested by blackmailer. They both leave
+CEL AUTOPSY LAB
+: Regis unhappy with the train station outcome, since Bomber has died in any way. Central has a wobbly, and Lao leaves to help fix it.
+- Leave Lab
+- Walk to far left of corridor, leave building
+- Go to balcony
+BALCONY
+- Interact with smashed mess
+- Put MEMORY MODULE on bench, as blackmailer requests
+- Blackmailer tells you to find a bomb, and destroy an apartment. Leave Balcony
+- Go to CEL
+- Walk to Regis & Lao's office
+- Interact with his desk, get KNIFE, COOKING GEL and HAND
+- Look at gel, turn temperature to max
+- Leave office, go back to autopsy lab
+- Use knife with body/remains, get BONE
+- Use cooking gel with bone
+- Leave lab, leave CEL, travel to Apartment
+- In apartment, use BONE with either food machine, toilet, locker or bookshelf.
+: Regis flees. View pans down to show Latha fiddling the door, and leaving herself before room explodes. End of section
+
+
+Part 4
+: Intro, Regis finds out where the Blackmailer's calling from, goes to CEL to get Van der Waal's pistol. Is asked to interview young woman who's been brought in. Regis realises that he almost killed her, whoopsy. Latha trapped in CEL Cell
+
+- Take PAPERWORK and CUP
+- Interact with food machine
+- Interact with screen, ask to speak to him
+- Ask officer for food, he gives you TOKEN
+- Use TOKEN with food machine, get FORK and FOOD
+- Pick up the sheet from the guy on the bed
+- Use SHEET with FORK
+- Use FOOD with the camera globe on the wall
+- Use table, climbs on top
+- Use WRAPPED UP FORK with light
+- Use PAPERWORK with open light, get BURNING PAPER
+- Put FOOD in CUP
+- Use CUP with water dispenser by the door
+- Use WETWARE RESIDUE with CUP
+- Use BURNING PAPER with trashcan
+- Use CUP with flaming trashcan
+: Player gets WETWARE
+- Use WETWARE with terminal, and with guy on bed
+- Connect to Trance
+- Use Internet Connection icon (left)
+: Jinsil explains what's going on, and that apparently Regis has just tried to kill Latha
+- In Trance hub, interact with top icon, go to Guy's Head
+GUY's MIND
+- Talk to Guy stuck in wall, tell him Jinsil says 'hi'
+- Take floating molecule, get EPINEPHRINE
+- Leave Trance
+- Go to terminal, contact officer
+- Tell him that Guy needs medical help, he'll come back with drone.
+- Interact with drone, get SCALPEL and INJECTOR
+- Use SCALPEL with food machine, get MEMORY CARD and OPTICAL MODULE
+- Use SCALPEL or TOKEN with table base.
+- Pull table to the right twice
+- Climb on table, then use scalpel with camera. Get LENS
+- Combine LENS with OPTICAL MODULE
+- Use EPINEPHRINE DATA with MEMORY CARD
+- Use MEMORY CARD and OPTICAL MODULE with food machine
+- Use TOKEN with food machine, get EPINEPHRINE CARTRIDGE
+- Need to fill injector: either use CARTRIDGE with INJECTOR, or use INJECTOR with water dispenser
+- Use full injector on Guy
+- Connect to Trance, speak to Guy. He gives you access to drone control
+- Go back to Trance hub. Use drone control icon on right (minigame to be implemented)
+: Drone enters room
+- Drone doesn't want to sit still. Use SHEET with drone.
+- Interact with drone, pick up LASER CUTTER
+- Pull table left all the way to the vent
+- Climb on table, use LASER CUTTER with vent
+: Latha Climbs in vent, end of section
+
+
+Part 5
+: Intro - Lao is briefed by the Controller of Centralised Government. Regis appears to have killed Dr Baxter, the man who murdered his wife 20 years earlier. Vargas is allowing Lao to look into it, because although Central seems to think this is likely, he doesn't agree.
+
+- Talk to Dr Chigwa. It turns out that, before his escape, Regis tampered with an awful lot of the plants in the labs. Max analyses it, and it appears that the ones found are acting as components of a piece of video data, and those found so far spell the initials of Max's name (M__L__), with enough gaps for the other letters in her name. Player must locate A, X, A and O to complete the data sequence that seems to be hidden in the genomes of these plants
+- Receive SAMPLER from Chigwa
+
+: Can't get into airlock without permission from Chigwa
+- Use wetware with door to airlock
+: A1
+- NIESTER's LAB - Niester knows what that A sample was that Regis modified was, but is talking gibberish thanks to his wetware-induced aphasia
+- Talk to Niester. Ask Chigwa how to fix Niester. She gives you the name of a chemical.
+- Find chemical in airlock's first aid kit. Load injector with chemical
+- Inject Niester, ask him about the altered plant.
+- Find it on the list in the Seed Bank in Baxter's lab (Acoraceae Braziliera)
+- Take plant from trackbot
+- Use sampler with plant
+- Return sampler to sequencer console in Chigwa's lab, A1 added to code
+: X
+- Go to the seed bank computer. There's only one X on the list, Xenosporans Tizardii
+- Take the Xenosporans growth matrix to the growth room.
+- Put the growth matrix into the only empty planting drum on the wall, on the lower level
+- Leave the room, then reenter. Xenosporans has taken over the whole room.
+- Take a sample of the xenosporans with the sampler
+- Return sampler to sequencer console in Chigwa's lab. X added to code.
+: A2
+- Chigwa remembers that this was a red/blue/yellow flower, with round/spiky/varigated leaves and long/round/small fruit (randomised)
+- Look at the plants in each room. When you find one matching the description, take the sample with the sampler
+- Use sampler with sequencer console. Add A2 to code
+: O
+- Sample O is definitely in the growth lab. Chigwa told you so.
+- Airlock doors won't let *you* leave with O samples. Maybe someone more authorised...
+- Use the pipes in the growth room, then tell Niester they're busted. He goes to fix them in there.
+- While he's in the growth room fixing the pipes, take sample from O (downstairs), and then put the sampler in his toolbox.
+- Wait for him to finish fixing, and return to his post with his toolbox
+- In Niester lab, remove the sampler from the toolbox, containing sample O
+- Use sampler with sequencer in Chigwa's lab, add O to code.
+: Regis explains to Lao in video message that, although Baxter's death might have been his plan originally, he certainly wasn't the one who did it. He was going to use Van der Waal's pistol, after all. Tells Max to meet him where he's hiding. Although his thinks he's phrased it carefully enough, someone listening in on the recording intends to get there first...
+
+Part 6
+- Pick up THERMAL BOTTLE
+- Open filing cabinet, get LIGHTER
+- Get RED PAINT from painter drone in front of desk
+- Use terminal. Power on, then choose "Control" (power control)
+- Connect Power control to External Device
+- Close terminal
+- Use red paint with fire system
+- Use thermal bottle
+- Walk into hallway. Crisis Agent bursts through ceiling, then becomes invisible
+- Return to office
+- Use lighter with smoke detector. Red paint is sprayed from sprinkler, making Crisis Agent 1 visible
+- Return to hallway
+- Wait until agent is close enough on left, then use STUNNER with him. Agent 1 disabled
+- Search his body, pick up Sub Machine-Gun
+- Use SMG with crates, then interact with crates to pick up PACKING MATERIAL
+- Walk into locker room.
+- Interact with lockers. Code is 381. Get POLISH, TAPE and WHISKEY
+- Use packing with whiskey, then lighter with whiskey. Makes a molotov cocktail.
+- Use packing with drain in shower. Turn shower on to flood floor.
+- Use TRAVELLER to enable power supply. Agent 3 disabled
+- leave locker room, then exit to stairs on right.
+- Use whiskey with Crisis Agent. Agent 2 disabled.
+- Walk into optics lab. Use industrial laser. Set power to maximum, and enable the laser.
+- Leave laser lab by left door, the head up to production line
+- Cross production floor by making sure to hide behind the taller objects on the belt as you go (or you get shot). 
+- On right side, use console. Unlock the manipulator arms, and change the belt direction
+- Cross in other direction, leave conveyor room. 
+- Head back to the stairs, then all the way to the bottom (factory floor)
+- Interact with production line on right, pick up METAL DISK
+- Use POLISH with METAL DISK, make shiny metal disk
+- Use METAL DISK with arm
+- Interact with control console. Rotate Z-> once
+- Use TRAVELLER. Laser bounces off shiny metal disk, hits & melts lock.
+- Exit to sewer

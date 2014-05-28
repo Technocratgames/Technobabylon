@@ -1,0 +1,104 @@
+Technobabylon - Current Build 03/05/2014
+REMEMBER: DEBUG MENU IS "I" KEY FOR SKIPPING SECTIONS
+Walkthrough now included in folder
+
+23/05/2014
+- Part 11 assets implemented. Testable via debug menu, though these will act as "story" flashbacks between upcoming sections
+- Part 7 has been started. Currently only accessible part is "Get Nuked", usable through the debug menu
+- Bug-testing is still underway.
+- Drone-driving from part 4 is being built. Has not yet been connected to the section itself.
+- New chapter-titles have been implemented and corrected, as they were coming up at the wrong time
+
+03/05/2014
+- Part 6 implemented, playable and completable. Plenty of things left to fix, but they're on the agenda for next week.
+- Instant-transitions added to the custom room-change function, so fade to black no longer necessary. I will be going through the game implementing it as appropriate.
+- The walkbehind on the S6 stairs is...craaazy. Parallax looks nice though. It'll be fixed next week. 
+- Most of the doors in S6 are not yet animated
+- The first Crisis Team agent in S6 is a little hard to click on when visible, since his interactive area is essentially just the paint on his body. I'm experimenting with something (rather than altering the art for it), so I'll see how successful that is
+- Manipulator arm still jumps a few pixels when the melt animation runs.
+- Section titles now implemented (as part of the custom transition function)
+
+08/04/2014
+- Medicine cabinet was unusable after first use. Oops! Fixed it.
+
+07/04/2014
+- Part 5 has been implemented. Playable from start to finish
+- Everything in this section onwards has not been played by anyone in a previous form, so walkthrough is a whole lot more useful if you're having problems with it
+- Plenty of features are still "placeholders" in this section (e.g. the procedurally-arranged flowers), will look into getting some better art for that if the puzzle proves successful
+- This week is being used for holistic review, rather than commencing part 6. The following areas will be addressed:
+	: placeholder graphics, cataloguing and where possible replacing
+	: Debugging
+	: Dialogue - implementation where gaps currently exist, spelling (American) and grammar, character
+	: Bot-driving minigame for S4
+	: Background atmosphere material - more things to "look at", news articles relating to world, e-mail accounts
+	: Update of public material; fix TC website, otherwise people are going to keep using artwork from older versions
+	: Relational reactions - what happens when X is "used with" Y?
+
+
+22/03/2014
+- Part 4 has been implemented. There are a few features of it to cobble up/implement, but the episode is playable from start to finish, and has been tested with the other three in complete playthrough.
+- The cell's table movements are a bit funny. Further adjustments will be made to the table's baseline and relative positions when being moved around the room, but for the sake of trying the puzzles out, its positions are close enough to comprehend
+- Dialogues have mostly been implemented for S4, with the exception of the secondary dialogue for Jinsil and the dialogue for Fake!Guy.
+- Scrolling e-mail and news textboxes implemented
+
+14/03/2014
+- Elements of tidying has been undertaken. Characters will now perform appropriate reaches and grabs where available.
+- Experimenting with new introductory establishing shot for CEL Headquarters
+- Game should no longer crash on complete playthrough. Certainly not for the reason there was before.
+- Regis no longer invisible at start of S3.
+- New speech portrait GUI experiment. Allows for alpha-blending on speech portraits
+- Scrolling textboxes implemented in e-mail (S1) and newspaper (not yet present in gameplay)
+
+
+09/03/2014
+- Part 3 has been implemented, can now be played from 1 to end of 3.
+- Naturally, some tidying up and improvement to do. There are timings and placements that need to be corrected
+- Still plenty of things to "look at" that I've not implemented yet. They'll be covered in the part 3 cleanup.
+- Chantelle the maid currently speak like she's some ghastly parody of French, or Poirot, or something like that. This is intentional, but let me know if it's bothersome and I'll find another way to represent changes of voice.
+- Addressing concerns raised in the last version, font has been changed to a *modified* version of Munro (unique characters for the game, etc). It even has a lower-case, now. Hopefully this has improved the legibility.
+- Since new instances of the hacking have not been needed for this section, I've decided to put off major alterations to it until part 4, wherein there are three different hacking events.
+- I've been pointed towards means of enabling the use of alpha channels on portrait sprites, so the ones currently in use are in effect placeholders.
+
+
+22/02/2014
+- Part 2 is wholly functional. Game can be played from start to end of S2, taking roughly 20 minutes (when one is aware of where everything is)
+- Cleanup and improvement will take place tomorrow
+- Detailed-planning for S3 will begin tomorrow, along with art-asset requirements
+- Speech portraits have been implemented thus far for all speaking characters. The resolution/style of portraits is being experimented with. Regis, Lao, Teen and Bomber are all reduced to appropriate resolution, JM and Latha are at 640 scale.
+- The CPR scene's difficulty is currently set as obscenely easy for development purposes. Difficulty can be increased by twiddling a couple of numbers.
+- Still working on timing the parallax in the car's background. Got to make it slide, rather than shudder.
+- Next version will include an updated Hacking GUI.
+
+
+09/02/2014
+- Part 2's balcony scene is 50% completable in a playthrough. Player can successfully acquire/combine objects in order to cut down branch
+- Placeholder art assets still in use
+- Limited player/character animation in place
+- Thorough testing will be carried out when balcony section is completable from start to finish.
+- Car-driving scene is also available for your viewing. I'm experimenting with ideas for improving it (adjusting timing of parallax, movement of car, road surface), but this version contains the normal iteration.
+
+
+27/01/2014
+- Section 1 can be completed on play-through. I can't guarantee a complete lack of game-crashing bugs at this stage, but one can play from start to finish
+- Things might be a little out-of-place here and there, particularly the animations. These are the next on my agenda
+- While the assets from Ben's section 2 work thus far are *in* the game, they don't do anything yet.
+- Debug menu for skipping to section 2 will be implemented when section 2 has usable rooms.
+
+
+26/01/2014
+- Still semi-completable, I'm afraid - dialogues keep referring to objects that no longer exist. Should be dealt with by next build.
+- Ben's art assets have been implemented. In some circumstances they're being experimented with/tweaked for optimisation
+- Dialogue from Latha's opening speech trimmed by 40%.
+- No more crashing as a result of the resolution-change (fingers crossed)
+
+
+18/01/2014
+- Semi-completable: while there may be crashes as a result of certain things no longer existing that the script refers to, and the game might not *currently* be completable through normal means, pressing the I key will equip the player with the fork necessary to escape the apartment, allowing viewing of the final cutscene's new graphics. 
+
+
+17/01/2014
+- New graphical assets courtesy of Ben.
+
+
+14/01/2014
+- Implemented new resolution (640x400). Mostly functional, just a few of the GUIs to get sorted out, a few placements in the script, and realigning of walkable areas.
